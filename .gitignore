@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+build/
+
+.cache/
+
+CMakeLists.txt.user
+*.pro.user*
+*.qmake.stash*

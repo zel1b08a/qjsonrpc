@@ -1,0 +1,4 @@
+#ifndef QJSONRPC_STABLE
+#define QJSONRPC_STABLE
+
+#endif // QJSONRPC_STABLE
