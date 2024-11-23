@@ -1,2 +1,3 @@
-# qjsonrpc
-There is a library for json-rpc protocol based on qt json classes.
+# QJsonRpc
+
+There is a library for the json-rpc protocol based on qt json classes.
