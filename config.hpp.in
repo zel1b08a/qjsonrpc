@@ -1,0 +1,14 @@
+#pragma once
+
+// QJR - Qt Json Rpc
+
+#define QJR_APPLICATION  '"$${NAME_APPLICATION}"'
+#define QJR_DATE         '"$${_DATE_}"'
+#define QJR_VERSION_MAJ  "$${VERSION_MAJOR}"
+#define QJR_VERSION_MIN  "$${VERSION_MINOR}"
+#define QJR_VERSION_PAT  "$${VERSION_PATCH}"
+#define QJR_VERSION      '"$${VERSION}"'
+#define QJR_ORGANIZATION '"$${QMAKE_TARGET_COMPANY}"'
+#define QJR_COPYRIGHT    '"$${QMAKE_TARGET_COPYRIGHT}"'
+#define QJR_DESCRIPTION  '"$${QMAKE_TARGET_DESCRIPTION}"'
+#define QJR_PRODUCT      '"$${QMAKE_TARGET_PRODUCT}"'
